@@ -6,7 +6,7 @@ From: centos:7
     yum clean all; yum -y update
 
     echo "Installing some needed things..."
-    yum -y install which # needed by NSC compiler wrapper
+    yum -y install which
     
     echo "Installing group Development Tools..."
     yum -y groupinstall 'Development Tools'
