@@ -20,3 +20,4 @@ From: centos:7
     mkdir -p /software
 
 # Dummy comment 1
+# Dummy comment hakmo
